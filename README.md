@@ -1,5 +1,5 @@
-# Probabilidad-y-Estad-stica-II-aplicado-a-las-Ciencias-de-la-Salud.
-## Libro de Probabilidad y Estadistica enfocado a las ciencias de la Salud para facilitar su comprención en areás 
+# Probabilidad_y_Estadistica_II_aplicado_a_las_Ciencias_de_la_Salud.
+## Libro de Estadistica enfocado a las ciencias de la Salud para facilitar su comprención mediante ejemplos basicos y nuevas herramientas
 
 ## ÍNDICE
 
