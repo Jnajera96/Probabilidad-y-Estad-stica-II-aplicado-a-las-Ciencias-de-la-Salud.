@@ -60,3 +60,5 @@ Contenidos: Prueba de Independencia Chi-cuadrado (chi^2) y prueba exacta de Fish
 #### Capítulo 10: Introducción al Análisis de Supervivencia
 Contenidos: Curvas de Kaplan-Meier y el concepto de tiempo-evento.
 Aplicación Práctica: Estimación del tiempo de recuperación hospitalaria según el tipo de intervención quirúrgica recibida.
+
+https://mybinder.org/v2/gh/Jnajera96/Probabilidad-y-Estad-stica-II-aplicado-a-las-Ciencias-de-la-Salud./HEAD?urlpath=https%3A%2F%2Fgithub.com%2FJnajera96%2FProbabilidad-y-Estad-stica-II-aplicado-a-las-Ciencias-de-la-Salud.%2Fblob%2Fmain%2FUnidad%25201.ipynb
